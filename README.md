@@ -2,18 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:447FF7,100:00C9FF&height=220&section=header&text=Hey!%20I'm%20Afsal%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20•%20Developer%20•%20From%20India%20🇮🇳&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=447FF7&center=true&vCenter=true&width=600&lines=I+am+a+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+Small+Developer+%F0%9F%93%88;Always+Learning+Something+New+%F0%9F%8C%B1;Open+to+Collaborate+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=447FF7&center=true&vCenter=true&width=600&lines=I+am+a+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+Small+Developer+%F0%9F%93%88;Always+Learning+Something+New+%F0%9F%8C%B1;Open+to+Collaborate+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=itsafxal&style=for-the-badge&color=447FF7&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/itsafxal?style=for-the-badge&color=447FF7&labelColor=black&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&color=447FF7&labelColor=black" alt="Status"/>
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+![rainbow-divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🧑‍💻 About Me
 
@@ -32,30 +33,20 @@ fun_fact: Small dev today, big dev tomorrow 🚀
 - 🤝 Open to collaboration — always down to build cool things together
 - 📫 Best way to reach me: check the contact section below!
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+![rainbow-divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=itsafxal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=itsafxal&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itsafxal&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsafxal&theme=redical&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itsafxal&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" width="48%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+> If either card above shows broken, that's the free stats server having a moment — refresh in a minute or see the note at the bottom.
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=itsafxal&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+![rainbow-divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🛠️ Tech Stack
 
@@ -65,17 +56,20 @@ fun_fact: Small dev today, big dev tomorrow 🚀
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+![rainbow-divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 📈 Contribution Snake
+## 🎯 Quick Facts
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/itsafxal/itsafxal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+<img src="https://img.shields.io/badge/Repos-Public-447FF7?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+<img src="https://img.shields.io/badge/Languages-JS%20|%20Python%20|%20PHP-447FF7?style=for-the-badge" alt="Languages"/>
+<img src="https://img.shields.io/badge/Learning-Cybersecurity-447FF7?style=for-the-badge" alt="Learning"/>
+<img src="https://img.shields.io/badge/Open%20to-Collab-447FF7?style=for-the-badge" alt="Open to collab"/>
+
 </div>
 
-> 💡 *This animates once you add the [contribution-snake GitHub Action](https://github.com/Platane/snk) to this repo.*
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+![rainbow-divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📬 Connect With Me
 
